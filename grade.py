@@ -1,9 +1,9 @@
 import sys
-m1 = float(sys.argv[1])
-m2 = float(sys.argv[2])
-m3 = float(sys.argv[3])
-m4 = float(sys.argv[4])
-m5 = float(sys.argv[5])
+m1 = sys.argv[1]
+m2 = sys.argv[2]
+m3 = sys.argv[3]
+m4 = sys.argv[4]
+m5 = sys.argv[5]
 
 avg = (m1 + m2 + m3 + m4 + m5) / 5
 
